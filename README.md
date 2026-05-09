@@ -1,54 +1,79 @@
 <div align="center">
 
-# 📁 Praful Kadam — Documents
+# 📁 Praful Kadam — Document Vault
 
-> Personal academic and professional documents of **Praful Kadam**  
-> B.E. Computer Engineering · Mumbai University · 2026
+<p>
+  <b>B.E. Computer Engineering</b> · Mumbai University · 2026  
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Praful%20Kadam-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/prafulkadam)
-[![GitHub](https://img.shields.io/badge/GitHub-Praful2604-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Praful2604)
-[![Email](https://img.shields.io/badge/Email-prafulkadam8697%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:prafulkadam8697@gmail.com)
+<p>
+  <a href="https://linkedin.com/in/prafulkadam">
+    <img src="https://img.shields.io/badge/LinkedIn-Praful%20Kadam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Praful2604">
+    <img src="https://img.shields.io/badge/GitHub-Praful2604-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:prafulkadam8697@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### 📌 Centralized repository for academic & professional documents
 
 </div>
 
 ---
 
-## 🗂️ Repository Structure
+## 🗂️ Directory Overview
 
 ```
-documents/
-├── resume/
-│   └── praful_kadam_resume.pdf
-├── certifications/
-│   ├── advanced_flutter_udemy.pdf
-│   ├── flutter_essential_linkedin.pdf
-│   ├── firebase_essential_linkedin.pdf
-│   └── claude_101_anthropic.pdf
-├── engineering/
-│   ├── sem1_marksheet.pdf
-│   ├── sem2_marksheet.pdf
-│   └── ...
-├── hsc/
-│   ├── hsc_marksheet.pdf
-│   └── hsc_certificate.pdf
-└── ssc/
-    ├── ssc_marksheet.pdf
-    └── ssc_certificate.pdf
+My Documents/
+├── Certificates/
+│   ├── claude 101.pdf
+│   ├── firebase courselinkedin.png
+│   ├── flutter course linkedin.png
+│   └── udemy Flutter certificate.png
+├── Engineering Marksheets/
+│   ├── sem 2 marksheet_compressed.pdf
+│   ├── sem 3.pdf
+│   ├── sem 4.pdf
+│   ├── sem 5.pdf
+│   └── sem 6.pdf
+├── Resume/
+│   └── Praful Kadam Resume 3 may.pdf
+└── README.md
 ```
 
 ---
 
-## 🔒 Note
+## 🎯 Purpose
 
-All documents in this repository are personal and belong to **Praful Kadam**.  
-They are shared here for easy access during job applications, internships, and academic purposes.  
-Please do not misuse or reproduce any document without permission.
+This repository serves as a **centralized, version-controlled document hub** for:
+
+* 📄 Job applications
+* 🎓 Academic submissions
+* 💼 Internship verification
+* 📌 Quick document access
 
 ---
+
+## 🔐 Disclaimer
+
+> All documents in this repository are **strictly personal** and belong to **Praful Kadam**.
+> Unauthorized use, distribution, or reproduction is not permitted.
+
+---
+
+## 📬 Contact
 
 <div align="center">
 
-**Praful Kadam** · prafulkadam8697@gmail.com · +91 8087614598  
-[LinkedIn](https://linkedin.com/in/prafulkadam) · [GitHub](https://github.com/Praful2604) · [Portfolio](https://github.com/Praful2604)
+**Praful Kadam**
+📧 [prafulkadam8697@gmail.com](mailto:prafulkadam8697@gmail.com)
+📱 +91 8087614598
+
+<a href="https://linkedin.com/in/prafulkadam">LinkedIn</a> • <a href="https://github.com/Praful2604">GitHub</a>
 
 </div>
