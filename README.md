@@ -42,7 +42,7 @@ My Documents/
 │   ├── sem 5.pdf
 │   └── sem 6.pdf
 ├── Resume/
-│   └── Praful Kadam Resume 3 may.pdf
+│   └── Praful Kadam Resume 1 July.pdf
 └── README.md
 ```
 
